@@ -2,6 +2,10 @@
   <div id="app">
     <!-- 路由容器 -->
     <router-view></router-view>
+	第二次提交
+	
+	
+	
   </div>
 </template>
 
